@@ -8,3 +8,4 @@
 * Install ts-jest and init jest.config.js with `npx jest config:init` 
 * Start adding tests in test directory with `.test.ts`
 * Add test script in package.json with watchAll
+* Implement Stack without JS array
