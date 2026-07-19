@@ -9,3 +9,5 @@
 * Start adding tests in test directory with `.test.ts`
 * Add test script in package.json with watchAll
 * Implement Stack without JS array
+* Attempt 2 sum problem with Maps
+* Remove duplicates with stack
