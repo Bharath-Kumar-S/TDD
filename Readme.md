@@ -11,3 +11,4 @@
 * Implement Stack without JS array
 * Attempt 2 sum problem with Maps
 * Remove duplicates with stack
+* Array destructure and sort
