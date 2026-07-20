@@ -14,3 +14,4 @@
 * Array destructure and sort
 * Array filter 
 * Array every, some, map, find
+* Spread and destructure
