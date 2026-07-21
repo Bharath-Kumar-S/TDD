@@ -15,3 +15,4 @@
 * Array filter 
 * Array every, some, map, find
 * Spread and destructure
+* Closure
